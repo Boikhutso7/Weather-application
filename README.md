@@ -30,6 +30,7 @@ Before running this application, make sure you have:
 # usage
 
 1. Enter the city name when prompted:
+
     Enter the name of your city: Pretoria
 
 # Example Usage
